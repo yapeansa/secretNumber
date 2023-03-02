@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+:root {
+    --font-family: 'Roboto', sans-serif;
+    --bg-color: #655DBB;
+    --primary-color: #ECF2FF;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    font-family: var(--font-family);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 3.5rem;
+}
+
+h3 {
+    font-size: 2.5rem;
+    margin-top: 1.25rem;
+}
+
+.mensagem {
+    font-size: 1.6rem;
+    margin-top: 2.5rem;
+}
+
+.box {
+    border: 2px solid var(--primary-color);
+    display: inline-block;
+    font-size: 5rem;
+    padding: 0.625rem;
+    margin: 2.5rem;
+}
+
+.btn-jogar {
+    padding: .5rem .9375rem;
+    border: none;
+    background-color: var(--primary-color);
+    border-radius: 5px;
+    margin-top: 2.5rem;
+    cursor: pointer;
+}
