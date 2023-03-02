@@ -5,7 +5,7 @@ Aqui, exploramos vários aspectos da linguagem javascript como a manipulação d
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **OptimusTech**
+| :sparkles: Nome        | **Número Secreto**
 | :label: Tecnologias | HTML, CSS, Javascript (tecnologias utilizadas)
 | :rocket: URL         | https://yapeansa.github.io/secretNumber/
 | :fire: Desafio     | https://secret-number-six.vercel.app/
